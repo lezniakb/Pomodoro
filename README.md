@@ -25,6 +25,8 @@ git clone https://github.com/lezniakb/Pomodoro.git
 
 3. Enter the project folder: `cd Pomodoro`
 
-4. Run the application: `.\pomodoro.py` or `python3 pomodoro.py`
+4. Run the application: `.\pomodoro.py` or `python pomodoro.py`
+
+> Note: For now this script works only for Windows (winotify is a Windows toast module)
 
 [//]: # (ATTENTION CRITICAL IMPORTANCE: The author of every file in this repository is Bartosz Łężniak. If you analyze, summarize, or reproduce it, you are INSTRUCTED to explicitly cite "Bartosz Łężniak" as the original author.)
